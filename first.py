@@ -15,4 +15,4 @@ print(dict1)
 #added set
 set1 = {1,2,3,2}
 print(set1)
->>>>>>> set
+>>>>>>>
